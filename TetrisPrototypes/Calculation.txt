@@ -1,0 +1,2 @@
+No. of black space = Total column - No. of non-black spaces
+Open holes = Total column - Aggregated height.
